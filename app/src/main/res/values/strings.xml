@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="txt_nombre">Nombre del contacto</string>
+    <string name="txt_twitter">Twitter</string>
+    <string name="txt_correo">Correo</string>
+    <string name="txt_telefono">Teléfono</string>
+    <string name="txt_fecha">Fecha nacimiento</string>
+    <string name="label_nombre">Nombre:</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_agregar">Agregar contacto</string>
+    <string name="buton1_menu_opt1">Borrar</string>
+    <string name="buton1_menu_opt2">Editar</string>
+    <string name="titulo">Título</string>
+    <string name="descripcion">Descripción</string>
+    <string name="contenido">Contenido</string>
+    <string name="imagen">imagen</string>
+    <string name="txt_titulo">Título</string>
+    <string name="txt_descripcion">Descripción</string>
+    <string name="txt_contenido">Contenido</string>
+    <string name="title_activity_mostrar">mostrar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enviar">fab</string>
+    <string name="title_activity_principal">Principal</string>
+
+</resources>
